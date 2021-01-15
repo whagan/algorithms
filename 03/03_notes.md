@@ -40,4 +40,38 @@
 #### 3.3.1 Types of edges
 
 ![title](.images/331_1.PNG)
+![title](.images/331_2.PNG)
+![title](.images/331_3.PNG)
+![title](.images/331_4.PNG)
+![title](.images/331_5.PNG)
 
+#### 3.3.2 Directed acyclic graphs
+
+![title](.images/332_1.PNG)
+![title](.images/332_2.PNG)
+![title](.images/332_3.PNG)
+![title](.images/332_4.PNG)
+![title](.images/332_5.PNG)
+
+#### 3.4 Strongly connected components
+
+#### 3.4.1 Defining connectivity for directed graphs
+
+![title](.images/341_1.PNG)
+![title](.images/341_2.PNG)
+![title](.images/341_3.PNG)
+![title](.images/341_4.PNG)
+
+
+#### 3.4.2 An efficient algorithm
+
+![title](.images/342_1.PNG)
+![title](.images/342_2.PNG)
+![title](.images/342_3.PNG)
+![title](.images/342_4.PNG)
+![title](.images/342_5.PNG)
+![title](.images/342_6.PNG)
+![title](.images/342_7.PNG)
+![title](.images/342_8.PNG)
+![title](.images/342_9.PNG)
+![title](.images/342_10.PNG)
